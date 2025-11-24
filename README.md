@@ -25,7 +25,6 @@ Foi criado um Grupo de recursos do Azure, onde foram ingresados dados como Nome 
 
 <img width="418" height="433" alt="image" src="https://github.com/user-attachments/assets/9c625d6f-7d47-46f0-ad54-463a9eb5a985" />
 
-<img width="769" height="684" alt="image" src="https://github.com/user-attachments/assets/d2b412ca-8b09-4235-ad82-e5704be072b2" />
 
 
 ---
@@ -39,16 +38,16 @@ Inicialmente, explorou-se a possibilidade de construir a automação como um **A
 Foi criado um recurso do **Azure AI Foundry**  `aif-interr` para hospedar o projeto e o agente. 
 <img width="798" height="833" alt="image" src="https://github.com/user-attachments/assets/fba47d48-d6be-45fe-b9ed-14054a0843ab" />
 
+<img width="767" height="403" alt="image" src="https://github.com/user-attachments/assets/150c0d50-0e87-4fbd-98d7-7ea069383d3e" />
 
-<img width="886" height="722" alt="image" src="https://github.com/user-attachments/assets/7f08b16a-b603-453e-bf55-a5768d1eaa68" />
-
-<img width="886" height="521" alt="image" src="https://github.com/user-attachments/assets/c729f45e-af7f-48a3-9d99-7dbe2b65ebad" />
-
-<img width="886" height="695" alt="image" src="https://github.com/user-attachments/assets/c3e5d891-6ca7-4d15-b5fb-bacb6667111e" />
+<img width="803" height="439" alt="image" src="https://github.com/user-attachments/assets/c18f7684-a638-4d62-9aef-5f31b076798b" />
+complentando cada etapa e selecionando "Create"
+<img width="580" height="392" alt="image" src="https://github.com/user-attachments/assets/901b3925-deb4-4b34-a42c-6e5f0b74a432" />
 
  Posteriormente, um modelo de linguagem leve foi selecionado e implementado.
  
- <img width="886" height="461" alt="image" src="https://github.com/user-attachments/assets/44cc415b-8fdf-4533-8107-67486543d31f" />
+ <img width="1089" height="708" alt="image" src="https://github.com/user-attachments/assets/5db3371f-439a-4b32-acbe-8208257db3da" />
+
 
 
 * **Modelo selecionado:** **gpt-4o-mini** <img width="886" height="1168" alt="image" src="https://github.com/user-attachments/assets/fd409106-4ab6-4108-936e-748e471be7a7" />
