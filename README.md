@@ -19,7 +19,7 @@ Foi criado um Grupo de recursos do Azure, onde foram ingresados dados como Nome 
 * **Nome do Grupo de Recursos:** `rg-inter` 
 * **Região:** *Brasil* 
 * **Tags:** Tags foram usadas para organização, incluindo `owner` e `purpose`.
-  ![Grupo de Recursos](images/i1.png)
+  ![Grupo de Recursos](images/i1.jpg)
 <img width="886" height="491" alt="image" src="https://github.com/user-attachments/assets/714179c8-4d7a-4367-85cb-69ea493a9f8e" />
 
 <img width="886" height="590" alt="image" src="https://github.com/user-attachments/assets/483b639b-83f8-419e-9219-489bcf92adee" />
