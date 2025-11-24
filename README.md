@@ -29,7 +29,7 @@ Foi criado um Grupo de recursos do Azure, onde foram ingresados dados como Nome 
 
 ---
 
-## 2. Primeira Abordagem A: Agente do AI Studio
+## 2. Primeira Abordagem: Agente do AI Studio
 
 Inicialmente, explorou-se a possibilidade de construir a automação como um **Agente de IA** no **Azure AI Studio**, seguindo estes passos:
 
@@ -63,7 +63,7 @@ Para permitir que o agente execute a ação de envio, uma ferramenta **Logic App
 * **Tipo de ação:** **Azure Logic Apps** 
 * **Função:** Um Logic App foi configurado para executar a ação **Enviar um e-mail (V2)** do Outlook, autenticando o serviço de e-mail. 
 * **Resultado:** O Agente de IA foi configurado para invocar esta ferramenta. Foi testado com diferentes tarefas e horarios
-* 
+  
 
 
 Neste teste, as instruções para o Agente foi que envie uma mensagem motivacional em idioma espanhol com a maneira de falar caracteristica em Lima-Perú para avançar com a escrita do projeto.
@@ -82,7 +82,7 @@ Email recebido:
 
 ---
 
-## 3. Abordagem B: Azure Logic App (Segundo abordagem)
+## 3. Segundo Abordagem : Azure Logic App 
 
 Foi realizada uma segunda abordagem para uma tarefa de notificação ao email por meio de **recorrência agendada** construindo o fluxo de trabalho no **Azure Logic Apps**.
 
@@ -92,8 +92,9 @@ Um novo recurso de **Logic App** foi criado com o plano **Multilocatário**, foi
 <img width="1760" height="562" alt="image" src="https://github.com/user-attachments/assets/fa8119be-f9f7-453d-895a-f37798f6e45e" />
 
 <img width="820" height="856" alt="image" src="https://github.com/user-attachments/assets/62f8bcb7-2830-4753-8199-637071a6ab05" />
+Completamos cada etapa e selecionamos "Review + Create"
 <img width="648" height="352" alt="image" src="https://github.com/user-attachments/assets/b4246166-43ef-44d9-b1d6-003e5950ab02" />
-
+ Logo, vamos para "Go to Resource" 
 
 ### 3.2. Configuração do Gatilho (Recorrência)
 
