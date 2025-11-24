@@ -2,13 +2,13 @@
 Agente notificador por e-mail com dois abordagem
 # 🤖 Agente de Notificação com Azure: Duas abordagems realizadas 
 
-Este documento explora a criação de um **Agente de Notificação** para o envio de e-mails recorrentes, o agente tem 1 ação funcional e duas abordagens de implementação no Azure são analisadas:
+Este documento explora a criação de um **Agente de Notificação** para o envio de e-mails recorrentes. O objetivo é criar uma solução que envie um e-mail de uma conta do Outlook para uma conta pessoal do Gmail segundo a hora estabelecida (considerado horario de Brasilia). O agente tem 1 ação funcional e duas abordagens de implementação no Azure são analisadas:
 
 1. **Agente de IA**  usando um Aplicativo Lógico como ferramenta.
 
 2. **Solução com o Azure Logic App** usando a Recorrência como gatilho principal.
 
-O objetivo é criar uma solução que envie um e-mail de uma conta do Outlook para uma conta pessoal do Gmail segundo a hora estabelecida (considerado horario de Brasilia).
+
 
 ---
 
