@@ -50,7 +50,8 @@ complentando cada etapa e selecionando "Create"
 
 
 
-* **Modelo selecionado:** **gpt-4o-mini** <img width="886" height="1168" alt="image" src="https://github.com/user-attachments/assets/fd409106-4ab6-4108-936e-748e471be7a7" />
+* **Modelo selecionado:** **gpt-4o-mini** <img width="609" height="938" alt="image" src="https://github.com/user-attachments/assets/69c86411-a0ac-4a9a-8705-8db642d20364" />
+
 
 *  Este modelo é suficiente para a orquestração básica desta ferramenta. 
 * **Nome da implementação:** `gpt-4o-mini` 
@@ -92,20 +93,24 @@ Foi realizada uma segunda abordagem para uma tarefa de notificação ao email po
 ### 3.1. Criando o Logic App 
 
 Um novo recurso de **Logic App** foi criado com o plano **Multilocatário**, foi selecionado essa opção pois, segundo a informação do portal do Azure, é ideal para modelos de pagamento conforme o uso e gatilhos agendados.
-<img width="886" height="390" alt="image" src="https://github.com/user-attachments/assets/322efe79-6cc1-41cf-9b77-0ab8965f0ce4" />
-<img width="886" height="933" alt="image" src="https://github.com/user-attachments/assets/5532558c-e6d9-4217-b665-a185217ca7dd" />
+<img width="1760" height="562" alt="image" src="https://github.com/user-attachments/assets/fa8119be-f9f7-453d-895a-f37798f6e45e" />
+
+<img width="820" height="856" alt="image" src="https://github.com/user-attachments/assets/62f8bcb7-2830-4753-8199-637071a6ab05" />
+<img width="648" height="352" alt="image" src="https://github.com/user-attachments/assets/b4246166-43ef-44d9-b1d6-003e5950ab02" />
 
 
 ### 3.2. Configuração do Gatilho (Recorrência)
 
 O fluxo começa com o gatilho de Recorrência nativo, que atua como o "coração" do agente, definindo a programação de execução.
+<img width="1217" height="443" alt="image" src="https://github.com/user-attachments/assets/fc3a3060-7ff3-4e34-a232-d9c7f00f4bd8" />
 
-<img width="886" height="928" alt="image" src="https://github.com/user-attachments/assets/ae1cdf03-3f2c-4ac5-81a2-41abde0d72cc" />
+<img width="306" height="105" alt="image" src="https://github.com/user-attachments/assets/810cad53-c3b7-49ff-a07d-7b4825a4e5f0" />
 
 * Gatilho: Recorrência, com agendamento
 * Frequência: Diária (Intervalo: 1, Frequência: Dia)
 * Horário de Execução: 1h45 (Nestas horas: 1, Nestes minutos: 45)
 * Fuso Horário: O fuso horário de Brasília foi definido para garantir a precisão do horário.
+<img width="610" height="546" alt="image" src="https://github.com/user-attachments/assets/cda745de-4b99-4dab-bbca-78d20a19e6bc" />
 
   <img width="1896" height="777" alt="image" src="https://github.com/user-attachments/assets/5d383cf6-8630-4d66-9ef2-4c5126e55002" />
  
@@ -121,7 +126,9 @@ Como próximo passo, a ação de envio de e-mail foi configurada usando o conect
 * **Destinatário:** `r....o@gmail.com` (meu email de teste de gmail) 
 * **Assunto:** `Comece a escritar sua tese!` 
 * **Corpo do e-mail:** `cada dia vale ouro!!`
-<img width="886" height="915" alt="image" src="https://github.com/user-attachments/assets/cf1317d3-758a-421d-ba93-9a760a2ad85c" />
+<img width="1052" height="811" alt="image" src="https://github.com/user-attachments/assets/d52f0560-fa3e-4bb3-82d3-29de8901a399" />
+<img width="581" height="275" alt="image" src="https://github.com/user-attachments/assets/64ddfee9-25c1-433c-9e65-cc057b3b9534" />
+
 .
 
 <img width="886" height="564" alt="image" src="https://github.com/user-attachments/assets/c78b7579-49d7-4940-bf01-fd95af409d25" />
@@ -136,8 +143,8 @@ Após salvar o fluxo de trabalho do Aplicativo Lógico, a execução automática
 
 * **Validação:** Foi confirmado o recebimento do e-mail na conta do Gmail.
 
-* **Sucesso:** O e-mail foi recebido com sucesso no horário agendado: **1h45**. 
-<img width="886" height="50" alt="image" src="https://github.com/user-attachments/assets/a0325b95-ee9e-479b-83c6-c1e397ccefe7" />
+* **Sucesso:** O e-mail foi recebido com sucesso no horário agendado: **1h45**.
+ <img width="1358" height="76" alt="image" src="https://github.com/user-attachments/assets/c06203b0-4a95-44a2-9afb-6b87cfed8001" />
 
 ---
 
