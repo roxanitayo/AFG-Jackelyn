@@ -72,7 +72,8 @@ A consulta realizada ao agente foi escrita em portugues e o agente cumprió perf
 
 Email recebido:
 
-<img width="1462" height="110" alt="image" src="https://github.com/user-attachments/assets/20ee6d45-b871-4d1b-a99c-ccf5df32ed1a" />
+<img width="1488" height="112" alt="image" src="https://github.com/user-attachments/assets/fe601189-a525-4740-86bd-df2dd9168d90" />
+
 
 ---
 
