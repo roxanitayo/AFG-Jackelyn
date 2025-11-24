@@ -8,7 +8,7 @@ Este documento explora a criação de um **Agente de Notificação** para o envi
 
 2. **Solução com o Azure Logic App** usando a Recorrência como gatilho principal.
 
-O objetivo é criar uma solução que envie um e-mail de lembrete diariamente às 1h45 (horario do Brasil) de uma conta do Outlook para uma conta pessoal do Gmail.
+O objetivo é criar uma solução que envie um e-mail de uma conta do Outlook para uma conta pessoal do Gmail segundo a hora estabelecida (considerado horario de Brasilia).
 
 ---
 
