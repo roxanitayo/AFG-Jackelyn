@@ -21,7 +21,9 @@ Foi criado um Grupo de recursos do Azure, onde foram ingresados dados como Nome 
 * **Tags:** Tags foram usadas para organização, incluindo `owner` e `purpose`.
   
 <img width="886" height="491" alt="image" src="https://github.com/user-attachments/assets/714179c8-4d7a-4367-85cb-69ea493a9f8e" />
+
 <img width="886" height="590" alt="image" src="https://github.com/user-attachments/assets/483b639b-83f8-419e-9219-489bcf92adee" />
+
 <img width="769" height="684" alt="image" src="https://github.com/user-attachments/assets/d2b412ca-8b09-4235-ad82-e5704be072b2" />
 
 
@@ -34,8 +36,11 @@ Inicialmente, explorou-se a possibilidade de construir a automação como um **A
 ### 2.1. Implantação do Recurso Foundry e do Modelo de IA
 
 Foi criado um recurso do **Azure AI Foundry**  `aif-inter` para hospedar o projeto e o agente. 
+
 <img width="886" height="722" alt="image" src="https://github.com/user-attachments/assets/7f08b16a-b603-453e-bf55-a5768d1eaa68" />
+
 <img width="886" height="521" alt="image" src="https://github.com/user-attachments/assets/c729f45e-af7f-48a3-9d99-7dbe2b65ebad" />
+
 <img width="886" height="695" alt="image" src="https://github.com/user-attachments/assets/c3e5d891-6ca7-4d15-b5fb-bacb6667111e" />
 
  Posteriormente, um modelo de linguagem leve foi selecionado e implementado.
@@ -115,7 +120,10 @@ Como próximo passo, a ação de envio de e-mail foi configurada usando o conect
 * **Assunto:** `Comece a escritar sua tese!` 
 * **Corpo do e-mail:** `cada dia vale ouro!!`
 <img width="886" height="915" alt="image" src="https://github.com/user-attachments/assets/cf1317d3-758a-421d-ba93-9a760a2ad85c" />
+.
+
 <img width="886" height="564" alt="image" src="https://github.com/user-attachments/assets/c78b7579-49d7-4940-bf01-fd95af409d25" />
+.
 <img width="886" height="468" alt="image" src="https://github.com/user-attachments/assets/5819120c-cb3e-4d0f-b36b-c0a472df4664" />
 
 ---
