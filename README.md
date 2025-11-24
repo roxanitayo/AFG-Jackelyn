@@ -19,13 +19,11 @@ Foi criado um Grupo de recursos do Azure, onde foram ingresados dados como Nome 
 * **Nome do Grupo de Recursos:** `rg-inter` 
 * **Região:** *Brasil* 
 * **Tags:** Tags foram usadas para organização, incluindo `owner` e `purpose`.
-  ![Grupo de Recursos](images/i1)
-  o
-    ![Grupo de Recursos](images/i1.png)
-  
-<img width="886" height="491" alt="image" src="https://github.com/user-attachments/assets/714179c8-4d7a-4367-85cb-69ea493a9f8e" />
+  <img width="756" height="333" alt="image" src="https://github.com/user-attachments/assets/9ef31e41-cb6c-472b-8288-8de2e1da18fc" />
 
-<img width="886" height="590" alt="image" src="https://github.com/user-attachments/assets/483b639b-83f8-419e-9219-489bcf92adee" />
+  <img width="802" height="391" alt="image" src="https://github.com/user-attachments/assets/525e51be-8a92-4db1-8f18-8c5be27ef89a" />
+
+<img width="418" height="433" alt="image" src="https://github.com/user-attachments/assets/9c625d6f-7d47-46f0-ad54-463a9eb5a985" />
 
 <img width="769" height="684" alt="image" src="https://github.com/user-attachments/assets/d2b412ca-8b09-4235-ad82-e5704be072b2" />
 
@@ -38,7 +36,9 @@ Inicialmente, explorou-se a possibilidade de construir a automação como um **A
 
 ### 2.1. Implantação do Recurso Foundry e do Modelo de IA
 
-Foi criado um recurso do **Azure AI Foundry**  `aif-inter` para hospedar o projeto e o agente. 
+Foi criado um recurso do **Azure AI Foundry**  `aif-interr` para hospedar o projeto e o agente. 
+<img width="798" height="833" alt="image" src="https://github.com/user-attachments/assets/fba47d48-d6be-45fe-b9ed-14054a0843ab" />
+
 
 <img width="886" height="722" alt="image" src="https://github.com/user-attachments/assets/7f08b16a-b603-453e-bf55-a5768d1eaa68" />
 
