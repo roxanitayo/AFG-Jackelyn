@@ -29,7 +29,7 @@ Foi criado um Grupo de recursos do Azure, onde foram ingresados dados como Nome 
 
 ---
 
-## 2. Abordagem A: Agente do AI Studio
+## 2. Primeira Abordagem A: Agente do AI Studio
 
 Inicialmente, explorou-se a possibilidade de construir a automação como um **Agente de IA** no **Azure AI Studio**, seguindo estes passos:
 
@@ -64,10 +64,6 @@ Para permitir que o agente execute a ação de envio, uma ferramenta **Logic App
 * **Função:** Um Logic App foi configurado para executar a ação **Enviar um e-mail (V2)** do Outlook, autenticando o serviço de e-mail. 
 * **Resultado:** O Agente de IA foi configurado para invocar esta ferramenta. Foi testado com diferentes tarefas e horarios
 * 
-<img width="886" height="404" alt="image" src="https://github.com/user-attachments/assets/a70c78b4-9357-42bd-b19a-e6835794a547" />
-<img width="886" height="775" alt="image" src="https://github.com/user-attachments/assets/96ebe301-9099-42f8-90ed-217fd74e2fb7" />
-<img width="886" height="458" alt="image" src="https://github.com/user-attachments/assets/f1885879-7c10-41fa-a0c0-690f9d36f5d3" />
-<img width="886" height="862" alt="image" src="https://github.com/user-attachments/assets/28abed3f-ed55-48ef-b968-942a9def1799" />
 
 
 Neste teste, as instruções para o Agente foi que envie uma mensagem motivacional em idioma espanhol com a maneira de falar caracteristica em Lima-Perú para avançar com a escrita do projeto.
@@ -112,9 +108,7 @@ O fluxo começa com o gatilho de Recorrência nativo, que atua como o "coração
 * Fuso Horário: O fuso horário de Brasília foi definido para garantir a precisão do horário.
 <img width="610" height="546" alt="image" src="https://github.com/user-attachments/assets/cda745de-4b99-4dab-bbca-78d20a19e6bc" />
 
-  <img width="1896" height="777" alt="image" src="https://github.com/user-attachments/assets/5d383cf6-8630-4d66-9ef2-4c5126e55002" />
  
-
 
 
 ### 3.3. Configuração da Ação $\rightarrow$ Enviar um e-mail (V2)
@@ -131,9 +125,6 @@ Como próximo passo, a ação de envio de e-mail foi configurada usando o conect
 
 .
 
-<img width="886" height="564" alt="image" src="https://github.com/user-attachments/assets/c78b7579-49d7-4940-bf01-fd95af409d25" />
-.
-<img width="886" height="468" alt="image" src="https://github.com/user-attachments/assets/5819120c-cb3e-4d0f-b36b-c0a472df4664" />
 
 ---
 
