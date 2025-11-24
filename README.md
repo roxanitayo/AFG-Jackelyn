@@ -62,13 +62,14 @@ Para permitir que o agente execute a ação de envio, uma ferramenta **Logic App
 <img width="886" height="862" alt="image" src="https://github.com/user-attachments/assets/28abed3f-ed55-48ef-b968-942a9def1799" />
 
 
-Neste teste, as instruções para o Agente foi que envie uma mensagem motivacional em idioma espanhol com as girias de Lima-Perú para avançar com a escrita do projeto.
+Neste teste, as instruções para o Agente foi que envie uma mensagem motivacional em idioma espanhol com a maneira de falar caracteristica em Lima-Perú para avançar com a escrita do projeto.
 
-<img width="366" height="165" alt="image" src="https://github.com/user-attachments/assets/096ce333-74aa-4b76-a518-53711aac7da8" />
+<img width="373" height="175" alt="image" src="https://github.com/user-attachments/assets/6f4234f3-75a0-4bbc-8988-24998fab91df" />
+
 
 A consulta realizada ao agente foi escrita em portugues e o agente cumprió perfeitamente com as instruções realizadas e enviou o email em idioma espanhol, assinando com o apelido indicado
 
-<img width="1307" height="365" alt="image" src="https://github.com/user-attachments/assets/d31e4c58-9570-40bb-8190-5363a278363f" />
+<img width="1322" height="310" alt="image" src="https://github.com/user-attachments/assets/b9b6c00a-a26d-433c-8415-b2486ba6e342" />
 
 Email recebido:
 
